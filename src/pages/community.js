@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 function Community(){
     return(
         <div>
-              {/* Navbar */}
+              
               <Navbar className="navbar">
                 <Container>
                   <Navbar.Brand as={Link} to="/" className="d-flex align-items-center">
