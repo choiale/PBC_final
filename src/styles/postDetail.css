@@ -1,0 +1,47 @@
+.post-detail-container {
+    color: #4D4D4D;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #EAEBF6;
+}
+
+.pd-title {
+    font-weight: 600;
+}
+
+.comment-detail-container {
+    margin-top: 30px;
+    color: #4D4D4D;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #F5F7FA;
+}
+
+.comment-button-container {
+    margin-top: 15px;
+
+}
+
+.back-button-container {
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+.comment-button {
+    background-color: #6C70C5;
+    border: none;
+
+}
+
+.comment-button:hover {
+    background-color: #B5B7E1;
+}
+
+.back-button {
+    background-color: #4B49A5;
+    border: none;
+}
+
+.back-button:hover {
+    background-color: #B5B7E1;
+}
