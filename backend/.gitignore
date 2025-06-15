@@ -8,8 +8,6 @@ __pycache__/
 venv/
 */venv/
 env/
-*.env
-.env
 
 # 로그, 캐시
 *.log
