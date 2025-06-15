@@ -1,0 +1,38 @@
+.mypage-title {
+    color: #6C70C5;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.mypage-content-container {
+    margin-top: 30px;
+    margin-bottom: 350px;
+}
+
+.mypage-text {
+    color: #4D4D4D;
+}
+
+.my-email-text {
+    color: #4B49A5;
+    font-size: 20px;
+}
+
+.mypage-content-container {
+    margin-top: 30px;
+    margin-bottom: 350px;
+    color: #4D4D4D;
+}
+
+.my-logout-button {
+    background-color: #6C70C5;
+    border: none;
+}
+
+.my-logout-button:hover {
+    background-color: #B5B7E1;
+}
+
+.my-logout-button:active {
+    background-color: #B5B7E1 !important;
+}

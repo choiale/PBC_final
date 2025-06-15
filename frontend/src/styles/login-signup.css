@@ -1,0 +1,41 @@
+.ls-all {
+    color: #4D4D4D;
+}
+
+.ls-title {
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.ls-container-1 {
+    margin-bottom: 20px;
+}
+
+.ls-container-2 {
+    margin-top: 20px;
+    margin-bottom: 170px;
+}
+
+.ls-input {
+    width: 300px;
+}
+
+.ls-input:focus {
+    outline: none;
+    border-color: #B5B7E1;
+    box-shadow: 0 0 0 0.2rem rgba(108, 112, 197, 0.35);
+}
+
+.ls-button {
+    width: 150px;
+    background-color: #6C70C5;
+    border: none;
+}
+
+.ls-button:hover {
+    background-color: #B5B7E1;
+}
+
+.ls-button:active {
+    background-color: #B5B7E1 !important;
+}

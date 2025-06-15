@@ -1,0 +1,74 @@
+.hero-wrapper {
+    background-color: #F5F7FA;
+}
+
+.hero {
+    background-color: #F5F7FA;
+    color: #4D4D4D;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.hero-text {
+    font-weight: 700;
+    font-size: 80px;
+}
+
+.hero-text-2 {
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+.hero-button {
+    background-color: #6C70C5;
+    border: none;
+}
+
+.hero-button-icon {
+    margin-left: 8px;
+    margin-bottom: 4px;
+    width: 28px;
+    height: 28px;
+}
+
+.hero-button:hover {
+    background-color: #B5B7E1;
+}
+
+.hero-button:active {
+    background-color: #B5B7E1 !important;
+}
+
+.feature-card {
+  border: none;
+  border-radius: 8px;
+  height: 320px;
+  background-color: #F5F7FA;
+}
+
+.feature-card-icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60px;
+    height: 60px;
+    margin-top: 1rem;
+}
+
+.feature-card-title {
+    color: #6C70C5;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.feature-card-text {
+    margin-top: 25px;
+    color: #717171;
+    font-size: 24px;
+}
+
+.map-text {
+    color: #6C70C5;
+    font-weight: 600;
+    font-size: 24px;
+}

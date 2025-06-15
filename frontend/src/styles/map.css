@@ -1,0 +1,48 @@
+.map-lebel{
+    color: #4D4D4D;
+}
+
+.map-title {
+    color: #6C70C5;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.map-container-1 {
+    margin-bottom: 20px;
+}
+
+.map-set-text {
+    color: #4D4D4D;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.map-input {
+    width: 300px;
+}
+
+.map-input:focus {
+    outline: none;
+    border-color: #B5B7E1;
+    box-shadow: 0 0 0 0.2rem rgba(108, 112, 197, 0.35);
+}
+
+.map-container-2 {
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.map-button {
+    width: 150px;
+    background-color: #6C70C5;
+    border: none;
+}
+
+.map-button:hover {
+    background-color: #B5B7E1;
+}
+
+.map-button:active {
+    background-color: #B5B7E1 !important;
+}
